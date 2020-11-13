@@ -1,0 +1,10 @@
+<!--pages/memories/memories.wxml-->
+
+
+<view>the past is never die</view>
+
+<view>{{listArr[0]}}</view>
+
+<view wx:for="{{listObj}}">
+  {{item.one}} ->  {{item.two}}
+</view>

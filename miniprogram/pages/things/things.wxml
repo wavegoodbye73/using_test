@@ -1,0 +1,25 @@
+<!--pages/things/things.wxml-->
+<swiper class="swi" indicator-dots; indicator-color="white"  indicator-active-color="lightblue" vertical circular autoplay previous-margin="20px" next-margin="20px">
+  <swiper-item class="item">
+    <image src="https://i.loli.net/2020/11/10/IsEmLWunpFkeGoX.jpg" ></image>
+  </swiper-item>
+  <swiper-item class="item">
+    <image src="https://i.loli.net/2020/11/10/4xh5ZYLb8WfRVrX.jpg" ></image>
+  </swiper-item>
+  <swiper-item class="item">
+    <image src="https://i.loli.net/2020/11/10/lnBV93vLPORiGAw.jpg"></image>
+  </swiper-item>
+</swiper>
+
+<button class="but" type="primary" plain>sinking?</button>
+<button type="primary" open-type="getUserInfo" bindgetuserinfo="userInfoHandler" open-type="contact">who</button>
+<button loading open-type="primary">能写几个字呢好像可以写很多很多字变成好几行</button>
+
+<checkbox>happy</checkbox>
+<checkbox color="crimson">glad</checkbox>
+
+<input class="input" placeholder="r u happy today?" placeholder-style="color:lightcyon"
+adjust-position cursor-spacing="2px" confirm-type="send" ></input>
+
+<textarea name="1" id="2" cols="30" rows="10">aba</textarea>
+

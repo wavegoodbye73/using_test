@@ -1,0 +1,9 @@
+/* pages/things/things.wxss */
+
+.swi{ height: 300px;}
+
+.swi image{width: 100%;}
+
+.but{margin-top: 20px;}
+
+.input{border: 1px solid black; height: 70rpx;margin-top: 5rpx;padding: 0 10rpx;box-sizing: border-box;}

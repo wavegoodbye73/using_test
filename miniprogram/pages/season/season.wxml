@@ -1,0 +1,9 @@
+<!--pages/season/season.wxml-->
+
+
+<view>four seasons</view>
+
+<checkbox color="green">spring</checkbox>
+<checkbox color="red">summer</checkbox>
+<checkbox color="yellow">autumn</checkbox>
+<checkbox color="grey">winter</checkbox>

@@ -1,0 +1,13 @@
+<!--pages/Guangzhou/Guangzhou.wxml-->
+
+<text class = "text">some memories</text>
+
+<image src="https://i.loli.net/2020/11/08/7M9XoQcwlGvNEZu.jpg" mode="widthFix">\n</image>
+
+<text> \nceremony to memorial of my Guangzhou last year </text>
+
+<image src="https://i.loli.net/2020/11/08/7FAQySDxgJYP2we.jpg" mode="widthFix">\n</image>
+
+<text> \nthe past never die</text>
+
+<image src="https://i.loli.net/2020/11/08/SGElufhpVvs9oMJ.jpg" mode="widthFix"></image>

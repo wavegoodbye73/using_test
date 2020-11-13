@@ -1,0 +1,40 @@
+
+<navigator url="../things/things">
+  <view class="box" hover-class="hoverBox" space = "ensp">wavegoodye</view>
+</navigator>
+
+<navigator class ="Guangzhou" url="../Guangzhou/Guangzhou">
+<text class="text" selectable="true" space="ensp">Guangzhou</text> 
+</navigator>
+
+<navigator class="Daysip" url="../Daysip/Daysip">
+  <text space="ensp" class="text1">20201107--DaySip \n</text>
+</navigator>
+
+<navigator class = "link"  url="/pages/wine/wine">
+  <image class = "menu" src="https://i.loli.net/2020/11/08/sDTyAitPYzkNBWa.jpg" mode="widthFix" ></image>
+</navigator>
+
+<scroll-view scroll-x>
+  <view class = "scrOut">
+    <view class = "scrBox">one</view>
+    <view class = "scrBox">two</view>
+    <view class = "scrBox">three</view>
+    <view class = "scrBox">four</view>
+    <view class = "scrBox">five</view>
+  
+  </view>
+
+</scroll-view>
+
+<scroll-view scroll-y>
+  <view class = "scrOut2">
+    <view class = "scrBox2">one</view>
+    <view class = "scrBox2">two</view>
+    <view class = "scrBox2">three</view>
+    <view class = "scrBox2">four</view>
+    <view class = "scrBox2">five</view>
+  
+  </view>
+
+</scroll-view>

@@ -1,0 +1,41 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/season/season",
+    "pages/logs/logs",
+    "pages/Guangzhou/Guangzhou",
+    "pages/Daysip/Daysip",
+    "pages/things/things",
+    "pages/alcohol/alcohol",
+    "pages/wine/wine",
+    "pages/memories/memories"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Station",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "list": 
+    [
+      {
+        "pagePath": "pages/index/index",
+        "text": "alcohol",
+        "iconPath":"images/season.png"
+      },
+      {
+        "pagePath": "pages/season/season",
+        "text": "season",
+        "iconPath":"images/season.png"
+      },
+      {
+        "pagePath": "pages/memories/memories",
+        "text": "memories",
+        "iconPath":"images/season.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

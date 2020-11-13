@@ -1,0 +1,8 @@
+<!--pages/alcohol/alcohol.wxml-->
+<text>pages/alcohol/alcohol.wxml</text>
+
+<view>
+  gin is good for me
+</view>
+
+<view bindtap="myTap" bindtouchstart=""></view>

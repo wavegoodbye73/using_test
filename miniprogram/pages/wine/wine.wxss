@@ -1,0 +1,6 @@
+/* pages/wine/wine.wxss */
+.text{
+  color: brown;
+  text-shadow: 5px 5px 5px #17eedc;
+  margin-right:1px;
+	margin-left:125px;}
