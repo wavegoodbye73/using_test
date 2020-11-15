@@ -8,6 +8,7 @@
     "pages/things/things",
     "pages/alcohol/alcohol",
     "pages/wine/wine",
+    "pages/wine1/wine1",
     "pages/memories/memories"
   ],
   "window":{
